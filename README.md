@@ -19,7 +19,7 @@ pada database sample_mflix dengan memakai collection movies_intial (projecting_q
 *   Semua fields pada clean_movies ada pada movie
 *   Semua value pada clean_movies sama dengan semua value pada movies dengan urutan yang sama
 
-## Kesimpulan
+## Kesimpulan dari Practice Case
 Kesimpulan yang saya dapatkan dari Practice Case kali ini adalah :
 
 
